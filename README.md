@@ -52,4 +52,6 @@
 	-- Singleton
 	-- Event Pattern
 
+#Static initialization blocks
+
 

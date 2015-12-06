@@ -13,6 +13,7 @@
 - Security
 - Durability
 	-- Reed-solomon codes
+- Chord_(peer-to-peer)
 
 # General Problem Solving
 - Data Structures

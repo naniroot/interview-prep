@@ -2,6 +2,16 @@
 - All the files and code that I practiced and will help me get ready for interviewing for now and later.
 - Also will help me revise quickly and keep me relevant in the ever changing tech market.
 
+#Tricky Problems
+- Permutation problems
+	- Print all string permutations
+	- Leetcode integer permutation problem
+- Left to right traversal problem
+	- LeetCode three sum problem
+- Multiple array to keep track of max on the left and max on the right
+	- general waterHeight problem
+	- stock maximize can be solved using this startegy
+
 # Distributed paradigms
 - Scalability
 	-- Centralized

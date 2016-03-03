@@ -42,6 +42,7 @@
 - Dynamic Programming
 - Backtracking
 
+- Parallelizing data structure e.g how would linked list would work with multiple threads
 
 # OO Concepts
 - When would you use interface or abstract class? is Queue q = new LinkedList(), here is q an AC or Interface? Why?
@@ -66,3 +67,5 @@
 #Static initialization blocks
 
 
+Java hash set does not gaurantee order, gives constant time complexity for add, remove, contains.
+Java TreeSet gaurantee order, gives lg(n) complexity for add, remove, contains.

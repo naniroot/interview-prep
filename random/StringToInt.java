@@ -13,6 +13,7 @@ public class StringToInt {
 		double total = 0;
 		for(int i =input.length()-1; i>=0; i--){
 			if(input.charAt(i) == '-'){
+				//check that i is 0 or exception for invalid
 				total = -1 * total;
 				continue;
 			}

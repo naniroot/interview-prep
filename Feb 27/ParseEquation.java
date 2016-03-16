@@ -2,7 +2,7 @@
 
 class ParseEquation{
 	public static void main(String[] args){
-		String input = "10+5(78-10)(45)";
+		String input = "10+5(78-10)";
 		double output = parseEquation(input);
 		System.out.println(output);
 	}
